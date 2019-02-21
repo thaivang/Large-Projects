@@ -1,3 +1,4 @@
-# The Space Station Tutorial
+# The Tech Academy Tutorial 
 ##### This is a follow along tutorial to create a working website with an emphasis on practicing writing code 
-##### and problem solving any errors that may arise. 
+##### and addressing any errors that may arise. 
+##### languages used: Html and CSS
